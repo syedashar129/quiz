@@ -1,0 +1,5 @@
+"What color are apples?\n"(a) Red/Green\n (b) Orange\n"
+a
+
+What color are bananas?\n(a) Red/Green\n (b) Yellow\n
+b
